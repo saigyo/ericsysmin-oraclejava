@@ -1,7 +1,7 @@
 {
   "author": "Eric Anderson",
   "checksums": {
-    "Modulefile": "86703d194ef0e6dfc7e675efa046f4aa",
+    "Modulefile": "2e37ffea15b1367dfae0c1801166b851",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "manifests/repository.pp": "05daf400b6499fbf0c9ccbb5fb00f3c4",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
@@ -25,5 +25,5 @@
   "source": "",
   "summary": "Oracle Java Puppet Module",
   "types": [],
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
