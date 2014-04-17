@@ -10,7 +10,7 @@
     "manifests/params.pp": "50761e6411a1d6e20a12aeea9866b421",
     "templates/java.preseed.erb": "6a0fdb6b47ac97c4879820191257cce6",
     "tests/init.pp": "4d560320b8b37913378ad7e5d9cb8a76",
-    "README.md": "179c1ab312f098617e4565f004e3e9c9"
+    "README.md": "34607482d7bd0ca3b254355ba2e501b9"
   },
   "dependencies": [
     {

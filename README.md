@@ -1,4 +1,4 @@
-#puppet-zabbix
+#ericsysmin-oraclejava
 
 ##Description
 
