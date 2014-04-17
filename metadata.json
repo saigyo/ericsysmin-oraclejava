@@ -1,7 +1,7 @@
 {
   "author": "Eric Anderson",
   "checksums": {
-    "Modulefile": "0e73a02a5254876102c1140b057ef1ce",
+    "Modulefile": "86703d194ef0e6dfc7e675efa046f4aa",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "manifests/repository.pp": "05daf400b6499fbf0c9ccbb5fb00f3c4",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
@@ -10,7 +10,7 @@
     "manifests/params.pp": "50761e6411a1d6e20a12aeea9866b421",
     "templates/java.preseed.erb": "6a0fdb6b47ac97c4879820191257cce6",
     "tests/init.pp": "4d560320b8b37913378ad7e5d9cb8a76",
-    "README.md": "9c14394257d29caa73bce716fcad088c"
+    "README.md": "179c1ab312f098617e4565f004e3e9c9"
   },
   "dependencies": [
     {
@@ -25,5 +25,5 @@
   "source": "",
   "summary": "Oracle Java Puppet Module",
   "types": [],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
