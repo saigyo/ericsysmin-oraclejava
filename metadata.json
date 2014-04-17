@@ -1,16 +1,19 @@
 {
   "author": "Eric Anderson",
   "checksums": {
-    "Modulefile": "2e37ffea15b1367dfae0c1801166b851",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
-    "manifests/repository.pp": "05daf400b6499fbf0c9ccbb5fb00f3c4",
-    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "Gemfile": "2548dac2883643f484da7d12ddf5e009",
     "manifests/init.pp": "d7a62169d93bd7e368c7b7f1de1a0f13",
     "manifests/install.pp": "bd044fb2bb5e7c07f40487d6c97ac255",
-    "manifests/params.pp": "50761e6411a1d6e20a12aeea9866b421",
     "templates/java.preseed.erb": "6a0fdb6b47ac97c4879820191257cce6",
-    "tests/init.pp": "4d560320b8b37913378ad7e5d9cb8a76",
-    "README.md": "34607482d7bd0ca3b254355ba2e501b9"
+    "README.md": "34607482d7bd0ca3b254355ba2e501b9",
+    "Modulefile": "2e37ffea15b1367dfae0c1801166b851",
+    "manifests/repository.pp": "05daf400b6499fbf0c9ccbb5fb00f3c4",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    ".travis.yml": "2d7efaee846818914da04f57e66ecd58",
+    "Rakefile": "8ad2fc44c6681194653fb31cfe07d72e",
+    "manifests/params.pp": "50761e6411a1d6e20a12aeea9866b421",
+    "tests/init.pp": "4d560320b8b37913378ad7e5d9cb8a76"
   },
   "dependencies": [
     {
