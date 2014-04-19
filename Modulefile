@@ -8,4 +8,4 @@ description 'This module installs Oracle Java on Ubuntu and Debian systems.'
 project_page ''
 
 ## Add dependencies, if any:
-dependency 'puppetlabs-apt', '>= 1.4.2'
+dependency 'puppetlabs/apt', '>= 1.4.2'
